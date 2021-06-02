@@ -20,11 +20,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 <br/>
 
-### &nbsp;IDE'S i use
-
-<br/>
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
 GitHub Stats
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KibaShop&show_icons=true&locale=en&layout=compact&theme=radical" alt="KibaShop" /></p>

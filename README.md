@@ -1,8 +1,4 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### if you would like to get in contact with me you can join my discord server below
-
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pED7Yw9SAj)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=KibaShop) 
 

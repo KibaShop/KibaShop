@@ -1,7 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![](https://discord.c99.nl/widget/theme-4/870013352045330462.png) 
-
 ### 🛠 &nbsp;My languages
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
